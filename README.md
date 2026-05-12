@@ -26,6 +26,30 @@ landing-template/
 └── vite.config.js
 ```
 
+## Preview
+
+### Hero Section
+
+![Hero Section](./heroSection.jpeg)
+
+---
+
+### Collection Section
+
+![Collection Section](./collectionSection.jpeg)
+
+---
+
+### About Section
+
+![About Section](./aboutSection.jpeg)
+
+---
+
+### Contact Section
+
+![Contact Section](./ContactSection.jpeg)
+
 ## Scripts
 
 ```bash
