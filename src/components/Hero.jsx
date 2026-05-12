@@ -48,7 +48,7 @@ function Hero() {
     </p>
 
     <button
-      className="
+      className=" transition-all duration-300 hover:bg-blue-600
         mt-10
         rounded-full
         bg-[#0F172A]
