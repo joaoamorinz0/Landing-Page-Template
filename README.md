@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Landing Template
 
-Template de landing page em React com Vite.
+🖥️Template de landing page em React com Vite.
 
 ## Estrutura
 
@@ -49,7 +49,7 @@ Uma landing page moderna, minimalista e responsiva para uma loja fictícia de sn
 
 O **DevTemplate Sneakers Landing Page** é um template de landing page inspirado em lojas modernas de calçados e streetwear.
 
-A proposta do projeto é ser simples, bonito e reutilizável, servindo como base para:
+A proposta do projeto é ser simples, bonito e **reutilizável**, servindo como base para:
 
 - lojas de calçados;
 - landing pages de produtos;
@@ -58,7 +58,7 @@ A proposta do projeto é ser simples, bonito e reutilizável, servindo como base
 - estudos de UI Design;
 - projetos de portfólio.
 
-O layout foi pensado primeiro no Figma, priorizando espaçamento, hierarquia visual, cards de produto e uma hero section com estética premium.
+O layout foi pensado primeiro no **Figma**, priorizando espaçamento, hierarquia visual, cards de produto e uma hero section com estética premium.
 
 ---
 
@@ -82,6 +82,7 @@ O layout foi pensado primeiro no Figma, priorizando espaçamento, hierarquia vis
 - Design inspirado em streetwear/sneaker culture
 - Estrutura pensada para componentização
 - Fácil personalização
+- Adição de itens ao carrinho
 
 ---
 
@@ -93,7 +94,10 @@ src/
 │   └── images/
 │
 ├── components/
-│   ├── Navbar.jsx
+│   ├── About.jsx
+|   ├── Cart.jsx
+|   ├── Navbar.jsx
+|   ├── Contact.jsx
 │   ├── Hero.jsx
 │   ├── ProductCard.jsx
 │   ├── Collection.jsx
@@ -112,6 +116,7 @@ src/
 
 Menu simples com links principais:
 
+- Home
 - About
 - Collection
 - Contact
